@@ -1,0 +1,1 @@
+Resource-allocation is the project that  addresses this concern by developing a comprehensive system for the allocation of three vital resources within our college: laboratories, seminar halls, and the library. The ever-increasing demands on these facilities necessitate a systematic approach to ensure equitable and optimal utilization.
